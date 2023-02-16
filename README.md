@@ -22,11 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create an Azure Virtual Machine 
+- Enable Internet Information Services(IIS)
+- Install PHP
+- Install MySQL
+- Install osTicket
+- osTicket Help desk
 
 <h2>Installation Steps</h2>
 
