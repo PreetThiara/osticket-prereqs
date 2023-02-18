@@ -64,7 +64,7 @@ Install mysql from list. Use the typical steup and launch configuration after in
 <p>
 Install OS help desk from list. Enable extensions by going back to IIS -> default->osTicket. Double click php manager. Click enable or disable an extension. Enable php_imap.dll, php_intl.dll, php_opcache.dll. Install HeidiSQL from list which allows you to connect to MySQL server and setup a database for osTicket to use
 <p>
-<img src="https://i.imgur.com/EsPCMB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6BzCPDi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 osTicket is now setup and running. You can log in with credentials entered during the setup. 
